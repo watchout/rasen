@@ -1,0 +1,51 @@
+# Copy this file to the root of a project repository as rasen.yaml.
+# It tells project-specific agents how to connect the project repo to Rasen.
+
+rasen_product_id: example-product-id
+growth_os_repo: watchout/rasen
+owner: IYASAKA
+current_stage: product_kernel
+
+# One of:
+# product_kernel
+# market_lens
+# offer_design
+# lp_ready
+# lead_magnet_ready
+# campaign_running
+# sales_active
+# delivery_active
+# feedback_loop
+current_stage_options:
+  - product_kernel
+  - market_lens
+  - offer_design
+  - lp_ready
+  - lead_magnet_ready
+  - campaign_running
+  - sales_active
+  - delivery_active
+  - feedback_loop
+
+primary_offer: null
+active_campaign: null
+
+human_approval_required: true
+
+human_approval_gates:
+  - sending_dms
+  - sending_proposals
+  - changing_prices
+  - making_guarantee_claims
+  - using_customer_names
+  - publishing_case_studies
+  - signing_contracts
+  - sending_invoices
+  - accepting_scope_changes
+
+agent_instructions:
+  - Read AGENTS.md in watchout/rasen first.
+  - Read products/{rasen_product_id}/product.yaml before changing growth-side content.
+  - Do not invent customer results or verified case studies.
+  - Draft sales-critical material only. Mark it HUMAN APPROVAL REQUIRED.
+  - If implementation work is needed, create issues in the project repo and reference the Rasen product id.
