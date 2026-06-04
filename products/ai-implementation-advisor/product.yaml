@@ -1,0 +1,42 @@
+id: ai-implementation-advisor
+name: AI実装顧問
+status: candidate
+category: AI consulting / implementation advisory
+
+one_liner: 中小企業や支援会社のAI導入・AI案件を、月次または週次で実装まで伴走する顧問サービス。
+
+target:
+  primary:
+    - AI導入を進めたい中小企業
+    - AI案件を継続的に提案するDX支援会社
+    - 開発会社
+    - 補助金支援会社
+  conditions:
+    - AI活用テーマはあるが、業務実装まで落とし込めていない
+    - AIツールの選定、社内運用、権限管理、教育に課題がある
+
+main_pain:
+  - AI研修で終わって現場に定着しない
+  - どの業務からAI化すべきかわからない
+  - 社内データや既存システムとの接続が設計できない
+  - 実装チームや外注先への指示が曖昧になる
+
+dream_outcome: AI活用テーマを実務に組み込み、継続的に改善できる状態にする。
+
+offer_seed: 月2回または週1回、AI案件・業務改善・実装方針をレビューし、ロードマップと実装タスクに落とす。
+
+price_seed:
+  light: 150000
+  standard: 300000
+  executive: 800000
+  currency: JPY
+
+lead_magnet_seed:
+  - AI業務改善テーマ棚卸しシート
+  - AI導入ロードマップ診断
+
+backend_seed:
+  - AI実装責任者
+  - Aun Stack / shirube 導入支援
+
+cta: AI実装顧問相談
