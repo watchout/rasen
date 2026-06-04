@@ -1,0 +1,78 @@
+id: ai-risk-diagnosis
+name: AI案件 受注前リスク診断
+status: focus
+category: AI consulting / technical second opinion
+
+one_liner: 300万円以上のAI案件を受注する前に、実装可否、見積漏れ、運用上の懸念を48時間で整理する診断サービス。
+
+target:
+  primary:
+    - DX支援会社
+    - Web制作会社
+    - システム開発会社
+    - 補助金支援会社
+    - kintone / Google Workspace / Microsoft 365 導入会社
+  conditions:
+    - 300万円以上のAI案件を提案中または相談中
+    - 顧客から生成AI、RAG、AIエージェント、社内データ活用の相談を受けている
+    - 提案前、見積前、または受注判断前である
+    - 技術判断、見積項目、スコープ設計に不安がある
+
+main_pain:
+  - AI案件を受注後にトラブル化させたくない
+  - 見積漏れで赤字化したくない
+  - 顧客の期待値を調整できない
+  - 技術質問に答えきれない
+  - RAG / MCP / API / SaaS / 手動運用の使い分けが曖昧
+  - 権限管理、人間承認、監査ログの要否を判断できない
+  - PoCと本番運用の違いを説明できない
+
+dream_outcome: AI案件を安心して提案・受注できる状態になる。
+
+offer_seed: 提案前48時間で、実装可否、見積漏れ、追加質問、スコープ外を整理する。
+
+price_seed:
+  beta: 100000
+  standard: 200000
+  currency: JPY
+  note: β版は匿名事例化への協力を条件に10万円。通常は20万円。
+
+core_deliverables:
+  - 90分ヒアリング
+  - 提案中AI案件レビュー
+  - 実装可能性診断
+  - RAG / MCP / API / SaaS / 手動運用の使い分け
+  - 顧客に追加で聞くべき質問
+  - 見積に入れるべき項目
+  - 権限管理、人間承認、監査ログの要否
+  - 48時間以内の診断レポート
+  - 30分フォローアップ
+
+lead_magnet_seed:
+  - AI案件 受注前チェックリスト
+  - AI案件 見積漏れチェックリスト
+  - AI案件リスクスコア診断フォーム
+
+backend_seed:
+  - AI実装ロードマップ作成
+  - 週1 AI実装責任者
+
+proof_assets:
+  - Codex / Claude Code / MCP / AIエージェントを実運用している
+  - Aun Stack を自社開発している
+  - 弱電、ホテル、現場、システム開発、経営の接続ができる
+  - 権限管理、人間承認、監査ログ、PR引き継ぎの実装課題を扱っている
+
+risk_reversal:
+  type: limited_revision
+  statement: 診断レポートに実装上の懸念、追加質問、見積項目が含まれていない場合、無料で再作成する。
+
+scarcity:
+  statement: 代表が直接診断するため、月3件まで。
+
+cta: AI案件診断希望
+
+first_campaign:
+  id: 2026-06-ai-risk-diagnosis
+  goal: 有料β版を1〜2件受注する
+  period: 30 days
