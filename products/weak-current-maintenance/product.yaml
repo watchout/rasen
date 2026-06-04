@@ -1,0 +1,47 @@
+id: weak-current-maintenance
+name: 弱電保守 / 監視カメラ / Wi-Fi保守
+status: candidate
+category: weak current maintenance / field service
+
+one_liner: 中小企業・ホテル・店舗向けに、防犯カメラ、Wi-Fi、ネットワーク、音響映像設備を月額で点検・保守するサービス。
+
+target:
+  primary:
+    - 小規模ホテル
+    - 店舗
+    - 事務所
+    - 会議室運営会社
+    - マンション管理会社
+  conditions:
+    - 防犯カメラ、Wi-Fi、ネットワーク、映像音響設備がある
+    - トラブル時に相談できる業者がいない
+    - 古い設備をそのまま使っている
+
+main_pain:
+  - カメラやWi-Fiが止まってから慌てる
+  - どこに相談すべきかわからない
+  - スポット対応だと毎回高くつく
+  - 設備台帳や配線情報が整理されていない
+  - 保守会社がAIやクラウド連携まで見られない
+
+dream_outcome: 弱電設備のトラブルを事前に把握し、困ったときにすぐ相談できる保守体制を持つ。
+
+offer_seed: 半径10km圏内の中小企業・施設向けに、月1回点検とトラブル相談をセットにした弱電設備保守を提供する。
+
+price_seed:
+  monthly_light: 10000
+  monthly_standard: 30000
+  diagnostic: 50000
+  currency: JPY
+
+lead_magnet_seed:
+  - Wi-Fi / 防犯カメラ無料点検チェックリスト
+  - 弱電設備トラブル予防診断
+
+backend_seed:
+  - 監視カメラ入替
+  - Wi-Fi 7 / 10GbE 配線パッケージ
+  - NFC / QR 資産管理クラウド
+  - AI監視・障害予兆通知
+
+cta: 弱電設備診断相談
