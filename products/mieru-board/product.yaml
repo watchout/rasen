@@ -1,0 +1,44 @@
+id: mieru-board
+name: ミエルボード for 現場
+status: candidate
+category: field operations SaaS
+
+one_liner: ホワイトボード運用を崩さず、社員別・現場別の予定をデジタル化する工事会社向けスケジュール管理SaaS。
+
+target:
+  primary:
+    - 弱電工事会社
+    - 電気工事会社
+    - 設備工事会社
+    - 社員10〜50人規模の現場会社
+  conditions:
+    - ホワイトボード、紙、LINE、Excelで予定を管理している
+    - 日報、入出荷、現場予定、スタッフ配置が分散している
+
+main_pain:
+  - 現場予定が最新化されない
+  - ホワイトボードから離れられない
+  - 社員の予定確認に時間がかかる
+  - 日報や申し送りが属人化している
+  - 入出荷や資産管理までつながっていない
+
+dream_outcome: 現場の見える化を崩さず、予定・日報・資産・申し送りを一画面で管理できる状態にする。
+
+offer_seed: 30日で、紙・LINE・ホワイトボードに分散した現場予定を1画面に統合する。
+
+price_seed:
+  setup: 300000
+  monthly: 100000
+  currency: JPY
+
+lead_magnet_seed:
+  - 現場スケジュール見える化診断
+  - ホワイトボードDXチェックリスト
+
+backend_seed:
+  - 月額SaaS
+  - AI日報要約
+  - QR/NFC資産管理
+  - アルコールチェック連携
+
+cta: 現場見える化相談
