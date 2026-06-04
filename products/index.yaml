@@ -1,0 +1,42 @@
+products:
+  - id: ai-risk-diagnosis
+    name: AI案件 受注前リスク診断
+    priority_seed: 1
+    status: focus
+    reason: 開発不要で短期現金化しやすく、Aun Stack / shirube の実証にもつながる
+
+  - id: ai-implementation-advisor
+    name: AI実装顧問
+    priority_seed: 2
+    status: candidate
+    reason: 継続課金化しやすく、AI案件診断から自然にアップセルできる
+
+  - id: mieru-board
+    name: ミエルボード for 現場
+    priority_seed: 3
+    status: candidate
+    reason: 既存ニーズがあり、弱電・工事会社の現場経験と相性が強い
+
+  - id: omotenasu-ai
+    name: OmotenasuAI
+    priority_seed: 4
+    status: candidate
+    reason: 将来性・バイアウト価値は大きいが、開発と導入設計が重い
+
+  - id: weak-current-maintenance
+    name: 弱電保守 / 監視カメラ / Wi-Fi保守
+    priority_seed: 5
+    status: candidate
+    reason: 既存スキルで現金化しやすく、月額保守に展開できる
+
+  - id: haishin-plus
+    name: 配信プラス
+    priority_seed: 6
+    status: candidate
+    reason: パッケージ化しやすいが、継続課金には会場・代理店契約が必要
+
+  - id: haleimo
+    name: ハレイモ
+    priority_seed: 7
+    status: long_term
+    reason: ブランド資産として重要。短期売上生成OSより、物語・会員制・定期便で育てる
