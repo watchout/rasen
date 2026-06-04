@@ -1,0 +1,49 @@
+id: omotenasu-ai
+name: OmotenasuAI
+status: candidate
+category: hotel AI concierge / hospitality SaaS
+
+one_liner: 客室TV・タブレット・スマホから、館内案内、問い合わせ、注文、多言語対応、アップセル導線を提供するホテル向けAIコンシェルジュ。
+
+target:
+  primary:
+    - レジャーホテル
+    - 旅館
+    - 都市型インバウンドホテル
+    - 小中規模ホテルグループ
+  conditions:
+    - 人手不足や夜間対応に課題がある
+    - 多言語対応が必要
+    - 客室内販促やリピーター化を強化したい
+    - 客室TVやタブレットを案内板以上に活用したい
+
+main_pain:
+  - フロント問い合わせが多い
+  - 外国人対応が属人化している
+  - 館内案内が紙やPDFで止まっている
+  - 客室からの注文・アップセル導線が弱い
+  - PMSや会員システムと連携できていない
+
+dream_outcome: 客室から問い合わせ・注文・案内・多言語対応・アップセルを自動化し、スタッフ負荷を減らしながら客室売上を伸ばす。
+
+offer_seed: 30日でAI客室コンシェルジュ導線を構築し、館内案内、FAQ、注文、アップセルを開始できる状態にする。
+
+price_seed:
+  economy_monthly: 19800
+  pro_monthly: 49800
+  enterprise_monthly: 99800
+  setup_per_room: 10000
+  currency: JPY
+
+lead_magnet_seed:
+  - ホテルAI導入余地診断
+  - 客室案内DXチェックリスト
+  - フロント問い合わせ削減診断
+
+backend_seed:
+  - PMS Tsukuyomi 連携
+  - CRM / 会員システム連携
+  - 客室TV連携
+  - 多言語アップセル分析
+
+cta: ホテルAI導入相談
